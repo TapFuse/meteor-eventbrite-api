@@ -1,0 +1,1 @@
+EventbriteApi = Npm.require("nbrite");
