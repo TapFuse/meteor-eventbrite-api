@@ -1,1 +1,1 @@
-# meteor-eventbrite-api
+Package is no longer maintaned.
